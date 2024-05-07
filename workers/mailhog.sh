@@ -1,0 +1,1 @@
+/home/ishika1928/go/bin/MailHog
